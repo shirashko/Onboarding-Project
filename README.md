@@ -2,6 +2,8 @@
 
 This project focuses on building a service with a RESTful API for managing user profiles. It is part of a larger exercise and involves designing data models, creating a REST API, and implementing endpoints.
 
+<img src="https://scrimba.com/articles/content/images/2022/12/frontend-to-backend-1.png" alt="Machine Learning" width="350"/>
+
 ## Table of Contents
 
 - [Knowledge](#knowledge)
@@ -64,6 +66,7 @@ This project assumes familiarity with:
 ## Testing
 
 - Tests to validate the functionality of the implemented endpoints.
+
 
 ## Conclusion
 This project focuses on building a service with a RESTful API for managing user profiles. It is part of a larger exercise and involves designing data models, creating a REST API, and implementing endpoints.

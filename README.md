@@ -2,7 +2,13 @@
 
 This project focuses on building a service with a RESTful API for managing user profiles. It is part of a larger exercise and involves designing data models, creating a REST API, and implementing endpoints.
 
-<img src="https://scrimba.com/articles/content/images/2022/12/frontend-to-backend-1.png" alt="Machine Learning" width="350"/>
+<table>
+  <tr>
+    <td><img src="https://scrimba.com/articles/content/images/2022/12/frontend-to-backend-1.png" width="400"/></td>
+    <td><img src="https://gotapi.com/wp-content/uploads/2023/09/API-EN-1.png" width="400"/></td>
+  </tr>
+</table>
+
 
 ## Table of Contents
 

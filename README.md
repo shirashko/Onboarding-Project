@@ -72,8 +72,3 @@ This project assumes familiarity with:
 ## Testing
 
 - Tests to validate the functionality of the implemented endpoints.
-
-
-## Conclusion
-This project focuses on building a service with a RESTful API for managing user profiles. It is part of a larger exercise and involves designing data models, creating a REST API, and implementing endpoints.
-
